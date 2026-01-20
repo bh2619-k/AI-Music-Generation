@@ -19,7 +19,6 @@ export default async function HomePage(){
     className="min-h-screen items-center flex flex-col justify-center"
     >
       <p>Dashboard</p>
-     <CreateSong />
     </div>
   )
 }
